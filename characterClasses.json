@@ -1,0 +1,32 @@
+[
+  {
+    "className": "Knight",
+    "description": "A lonely Knight...",
+    "hp": 12,
+    "attack": 5,
+    "strength": 7,
+    "defense": 4,
+    "range": 1,
+    "magic": 1
+  },
+  {
+    "className": "Mage",
+    "description": "An aura surrounds you...",
+    "hp": 9,
+    "attack": 1,
+    "strength": 2,
+    "defense": 6,
+    "range": 1,
+    "magic": 8
+  },
+  {
+    "className": "Ranger",
+    "description": "Swift and precise...",
+    "hp": 10,
+    "attack": 1,
+    "strength": 3,
+    "defense": 7,
+    "range": 8,
+    "magic": 1
+  }
+]
