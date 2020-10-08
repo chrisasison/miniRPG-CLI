@@ -12,6 +12,7 @@
   "dependencies": {
     "chalk": "^4.1.0",
     "inquirer": "^7.3.3",
+    "promisify": "0.0.3",
     "yargs": "^16.0.3"
   }
 }
