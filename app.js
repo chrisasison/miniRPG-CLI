@@ -66,7 +66,7 @@ inquirer.prompt([
         //need to link response to pick character class.
     } else if (response === 'bow') {
         //need to link response to pick character class.
-    } else {
+    } else if (response === 'staff') {
         //need to link response to pick character class.
     }
     const mainChar = new PlayerCreate(response.weapon, response.name);
